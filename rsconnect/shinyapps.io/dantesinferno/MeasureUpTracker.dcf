@@ -1,0 +1,12 @@
+name: MeasureUpTracker
+title: MeasureUpTracker
+username:
+account: dantesinferno
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 587804
+bundleId: 1718145
+url: https://dantesinferno.shinyapps.io/MeasureUpTracker/
+when: 1543073565.84214
+asMultiple: FALSE
+asStatic: FALSE
